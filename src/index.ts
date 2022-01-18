@@ -1,2 +1,4 @@
 
-console.log("Hello World!");
+import Server from "./backend";
+
+Server();
